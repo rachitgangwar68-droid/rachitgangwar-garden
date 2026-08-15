@@ -40,11 +40,89 @@ const flowersData = [
   },
    {
     name: "Chrysanthemum",
-    latin: "Helianthus annuus",
-    date: "July 2026",
+    latin: "Chrysanthemum indicum",
+    date: "December 2026",
     images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
-    description: "Grew from seed this year — taller than me by August. Always facing the morning sun."
+    description: "Short-day blooms that take over when summer fades. Their vibrant winter colors bring life to the garden just as the weather turns cool."
+  },
+   {
+    name: "Dahlia",
+    latin: "Dahlia pinnata",
+    date: "SEPTEMBER 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Bold, intricate blooms that peak as autumn approaches. Their striking geometric petals make them a brilliant centerpiece in the garden beds."
+  },
+   {
+    name: "Calendula",
+    latin: "Calendula officinalis",
+    date: "JANUARY 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Cheerful, bright orange and yellow petals that thrive in the cooler winter months. Their hardy blooms bring a warm, welcoming pop of color to the garden beds."
+  },
+   {
+    name: "Adenium",
+    latin: "Adenium obesum",
+    date: "FEBRUARY 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Striking succulent shrubs known for their swollen caudex and vibrant, trumpet-shaped blooms. They thrive in the warmth and add an exotic touch to the collection."
+  },
+   {
+    name: "Jade Plant",
+    latin: "Crassula ovata",
+    date: "MARCH 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Resilient and fleshy succulents featuring glossy, emerald-green leaves. They store water efficiently in their thick stems, bringing a timeless, sturdy charm to the garden display."
+  },
+   {
+    name: "Rain Lily",
+    latin: "Zephyranthes candida",
+    date: "AUGUST 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Delicate, star-shaped flowers that magically pop into full bloom right after a fresh summer downpour. Their sudden appearance brings a refreshing burst of life to the garden."
+  },
+   {
+    name: "Hibiscus",
+    latin: "Hibiscus rosa-sinensis",
+    date: "OCTOBER 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Stunning, trumpet-shaped tropical blossoms in striking shades of red, yellow, and white. Their bold, colorful petals bring an instant burst of warmth and elegance to the landscape."
+  },
+   {
+    name: "Dianthus",
+    latin: "Dianthus caryophyllus",
+    date: "NOVEMBER 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Charming, ruffled blooms with a delightful spicy fragrance. Their vibrant clusters thrive in the cooler weather, adding a cheerful burst of color and texture to the garden."
+  },
+   {
+    name: "Verbena",
+    latin: "Verbena bonariensis",
+    date: "APRIL 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Clustered clusters of vibrant, delicate purple flowers held on tall, slender stems. They bloom abundantly in the warm sunlight and are absolute favorites for visiting butterflies and pollinators."
+  },
+   {
+    name: "Balsam",
+    latin: "Impatiens balsamina",
+    date: "MAY 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Vibrant, rose-like blooms nestled closely along the upright stems. These cheerful garden classics thrive in the warm weather and bring a brilliant splash of rich color to shaded spots."
+  },
+   {
+    name: "Pansy",
+    latin: "Viola wittrockiana",
+    date: "FEBRUARY 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Charming, velvety blossoms featuring distinctive, colorful "faces." These hardy cool-weather favorites brighten up the garden beds with a cheerful pop of pattern and rich color."
+  },
+   {
+    name: "Hollyhock",
+    latin: "Alcea rosea",
+    date: "JULY 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Majestic, towering flower spikes adorned with large, cup-shaped blossoms. They make a dramatic statement along garden walls, bringing a classic, cottage-garden charm all summer long.."
   }
+
 
   // Add more entries here, following the same pattern:
   // {
