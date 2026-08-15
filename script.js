@@ -42,7 +42,7 @@ const flowersData = [
     name: "Chrysanthemum",
     latin: "Helianthus annuus",
     date: "July 2026",
-    images: ["images/Chrysanthemum-1.jpg"],
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
     description: "Grew from seed this year — taller than me by August. Always facing the morning sun."
   }
 
