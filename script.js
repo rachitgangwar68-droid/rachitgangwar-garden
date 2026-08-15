@@ -113,7 +113,7 @@ const flowersData = [
     latin: "Viola wittrockiana",
     date: "FEBRUARY 2026",
     images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
-    description: "Charming, velvety blossoms featuring distinctive, colorful "faces." These hardy cool-weather favorites brighten up the garden beds with a cheerful pop of pattern and rich color."
+    description: "Charming, velvety blossoms featuring distinctive, colorful faces. These hardy cool-weather favorites brighten up the garden beds with a cheerful pop of pattern and rich color."
   },
    {
     name: "Hollyhock",
