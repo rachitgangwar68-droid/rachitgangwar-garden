@@ -39,7 +39,7 @@ const flowersData = [
     name: "Sunflower",
     latin: "Helianthus annuus",
     date: "July 2026",
-    images: ["images/sunflower-1.jpg"],
+    images: ["images/sunflower-1.jpg","images/sunflower-2.jpg","images/sunflower-3.jpg"],
     description: "Grew from seed this year — taller than me by August. Always facing the morning sun."
   },
    {
