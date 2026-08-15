@@ -28,14 +28,14 @@ const flowersData = [
     name: "Rose",
     latin: "Rosa 'Iceberg'",
     date: "May 2026",
-    images: ["images/rose.jpg"],
+    images: ["images/rose-1.jpg"],
     description: "Planted this white rose bush two years ago. It's finally covering the trellis by the gate."
   },
   {
     name: "Sunflower",
     latin: "Helianthus annuus",
     date: "July 2026",
-    images: ["images/sunflower-1.jpg", "images/sunflower-2.jpg"],
+    images: ["images/sunflower-1.jpg"],
     description: "Grew from seed this year — taller than me by August. Always facing the morning sun."
   }
 
