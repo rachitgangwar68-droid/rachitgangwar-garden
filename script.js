@@ -54,7 +54,7 @@ const flowersData = [
     name: "Dahlia",
     latin: "Dahlia pinnata",
     date: "SEPTEMBER 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Dahlia-1.jpg","images/Dahlia-2.jpg","images/Dahlia-3.jpg","images/Dahlia-4.jpg"],
     description: "Bold, intricate blooms that peak as autumn approaches. Their striking geometric petals make them a brilliant centerpiece in the garden beds."
   },
    {
