@@ -46,7 +46,8 @@ const flowersData = [
     name: "Chrysanthemum",
     latin: "Chrysanthemum indicum",
     date: "December 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg","images/Chrysanthemum-4.jpg","images/Chrysanthemum-5.jpg","images/Chrysanthemum-6.jpg","images/Chrysanthemum-7.jpg","images/Chrysanthemum-8.jpg","images/Chrysanthemum-9.jpg","images/Chrysanthemum-10.jpg",
+            "images/Chrysanthemum-11.jpg","images/Chrysanthemum-12.jpg","images/Chrysanthemum-13.jpg","images/Chrysanthemum-14.jpg","images/Chrysanthemum-15.jpg","images/Chrysanthemum-16.jpg","images/Chrysanthemum-17.jpg"],
     description: "Short-day blooms that take over when summer fades. Their vibrant winter colors bring life to the garden just as the weather turns cool."
   },
    {
