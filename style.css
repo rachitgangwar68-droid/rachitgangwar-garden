@@ -120,7 +120,8 @@ body {
 .carousel img {
   width: 100%;
   aspect-ratio: 4 / 3;
-  object-fit: cover;
+  object-fit: contain;
+  background: #DCE0CC;
   display: block;
   filter: saturate(1.03);
 }
