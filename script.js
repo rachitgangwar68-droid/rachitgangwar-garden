@@ -13,7 +13,11 @@
                        different times. If there's more than one,
                        the card shows next/previous arrows.
    4. Save the file and refresh the page (or re-upload if it's live).
-   That's it — no other code needs to change.
+
+   IMPORTANT: never use a " (double quote) mark inside your description
+   text, since that's the same character used to wrap the text — it
+   will break the whole file. Use a ' (single quote) instead if you
+   want to quote a word, e.g. 'faces' not "faces".
    ===================================================================== */
 
 const flowersData = [
@@ -113,7 +117,7 @@ const flowersData = [
     latin: "Viola wittrockiana",
     date: "FEBRUARY 2026",
     images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
-    description: "Charming, velvety blossoms featuring distinctive, colorful faces. These hardy cool-weather favorites brighten up the garden beds with a cheerful pop of pattern and rich color."
+    description: "Charming, velvety blossoms featuring distinctive, colorful 'faces.' These hardy cool-weather favorites brighten up the garden beds with a cheerful pop of pattern and rich color."
   },
    {
     name: "Hollyhock",
@@ -143,8 +147,6 @@ const flowersData = [
     images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
     description: "Tough, glossy green foliage topped with cheerful, five-petaled blossoms. These resilient plants thrive in the intense summer heat, offering a continuous display of bright, reliable color."
   }
-
-
 
   // Add more entries here, following the same pattern:
   // {
