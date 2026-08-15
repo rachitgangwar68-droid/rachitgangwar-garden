@@ -25,7 +25,7 @@ const flowersData = [
     name: "Marigold",
     latin: "Tagetes erecta",
     date: "June 2026",
-    images: ["images/marigold-1.jpg", "images/marigold-2.jpg"],
+    images: ["images/marigold-1.jpg", "images/marigold-2.jpg","images/marigold-3.jpg","images/marigold-4.jpg","images/marigold-5.jpg","images/marigold-6.jpg"],
     description: "Bright orange blooms by the front path. Flowers almost non-stop through summer and the bees love it."
   },
   {
