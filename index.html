@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Garden Journal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=Inter:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <p class="eyebrow">a running record, kept by hand</p>
+    <h1 class="garden-title">My Garden Journal</h1>
+    <p class="garden-intro">
+      Photographs and notes from my garden — what's blooming,
+      what it's called, and what I've noticed about it.
+    </p>
+    <div class="sprig" aria-hidden="true">
+      <svg viewBox="0 0 200 40" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 20 H70" stroke="currentColor" stroke-width="1"/>
+        <path d="M130 20 H200" stroke="currentColor" stroke-width="1"/>
+        <g transform="translate(100,20)">
+          <path d="M0 0 C -18 -14, -32 -4, -30 0 C -32 4, -18 14, 0 0 Z" fill="currentColor" opacity="0.75"/>
+          <path d="M0 0 C 18 -14, 32 -4, 30 0 C 32 4, 18 14, 0 0 Z" fill="currentColor" opacity="0.75"/>
+          <circle r="3.5" fill="currentColor"/>
+        </g>
+      </svg>
+    </div>
+  </header>
+
+  <main>
+    <section id="gallery" class="gallery" aria-live="polite">
+      <!-- Flower cards are inserted here by script.js -->
+    </section>
+
+    <p id="empty-state" class="empty-state" hidden>
+      No entries yet. Add a photo to the <code>images</code> folder and
+      describe it in <code>script.js</code> to see it appear here.
+    </p>
+  </main>
+
+  <footer class="site-footer">
+    <p>Kept and photographed by me, in my own garden.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
