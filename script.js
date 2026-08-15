@@ -120,8 +120,30 @@ const flowersData = [
     latin: "Alcea rosea",
     date: "JULY 2026",
     images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
-    description: "Majestic, towering flower spikes adorned with large, cup-shaped blossoms. They make a dramatic statement along garden walls, bringing a classic, cottage-garden charm all summer long.."
+    description: "Majestic, towering flower spikes adorned with large, cup-shaped blossoms. They make a dramatic statement along garden walls, bringing a classic, cottage-garden charm all summer long."
+  },
+   {
+    name: "Petunia",
+    latin: "Petunia hybrida",
+    date: "MARCH 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Vibrant, trumpet-shaped blooms that blanket the foliage in a continuous wave of rich color. These cheerful garden favorites thrive beautifully in the spring sunshine."
+  },
+   {
+    name: "Hippeastrum",
+    latin: "Hippeastrum hybridum",
+    date: "APRIL 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Spectacular, large trumpet-shaped flowers sitting atop sturdy, upright stems. Their striking, bold colors create an eye-catching centerpiece and add a touch of drama to the garden display."
+  },
+   {
+    name: "Periwinkle",
+    latin: "Catharanthus roseus",
+    date: "MAY 2026",
+    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    description: "Tough, glossy green foliage topped with cheerful, five-petaled blossoms. These resilient plants thrive in the intense summer heat, offering a continuous display of bright, reliable color."
   }
+
 
 
   // Add more entries here, following the same pattern:
