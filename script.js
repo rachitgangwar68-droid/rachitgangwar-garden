@@ -37,6 +37,13 @@ const flowersData = [
     date: "July 2026",
     images: ["images/sunflower-1.jpg"],
     description: "Grew from seed this year — taller than me by August. Always facing the morning sun."
+  },
+   {
+    name: "Chrysanthemum",
+    latin: "Helianthus annuus",
+    date: "July 2026",
+    images: ["images/chrysanthemum.jpg"],
+    description: "Grew from seed this year — taller than me by August. Always facing the morning sun."
   }
 
   // Add more entries here, following the same pattern:
