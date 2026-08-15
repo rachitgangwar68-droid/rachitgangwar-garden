@@ -21,7 +21,7 @@ const flowersData = [
     name: "Marigold",
     latin: "Tagetes erecta",
     date: "June 2026",
-    images: ["images/marigold-1.jpg", "images/marigold-2.jpg", "images/marigold-3.jpg"],
+    images: ["images/marigold-1.jpg", "images/marigold-2.jpg"],
     description: "Bright orange blooms by the front path. Flowers almost non-stop through summer and the bees love it."
   },
   {
@@ -110,6 +110,12 @@ function createCarousel(images, name) {
 
   function showImage(index) {
     current = (index + images.length) % images.length;
+
+    // Reset any "missing photo" state left over from a previous slide.
+    img.style.display = "";
+    const existingPlaceholder = wrap.querySelector(".carousel-placeholder");
+    if (existingPlaceholder) existingPlaceholder.remove();
+
     img.src = images[current];
     img.onerror = function () {
       img.style.display = "none";
