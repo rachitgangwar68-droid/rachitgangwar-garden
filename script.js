@@ -32,7 +32,7 @@ const flowersData = [
     name: "Rose",
     latin: "Rosa 'Iceberg'",
     date: "May 2026",
-    images: ["images/rose-1.jpg"],
+    images: ["images/rose-1.jpg","images/rose-2.jpg","images/rose-3.jpg","images/rose-4.jpg"],
     description: "Planted this white rose bush two years ago. It's finally covering the trellis by the gate."
   },
   {
