@@ -61,7 +61,7 @@ const flowersData = [
     name: "Calendula",
     latin: "Calendula officinalis",
     date: "JANUARY 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Calendula-1.jpg","images/Calendula-2.jpg","images/Calendula-3.jpg"],
     description: "Cheerful, bright orange and yellow petals that thrive in the cooler winter months. Their hardy blooms bring a warm, welcoming pop of color to the garden beds."
   },
    {
