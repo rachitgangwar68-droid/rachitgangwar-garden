@@ -103,22 +103,22 @@ const flowersData = [
     name: "Verbena",
     latin: "Verbena bonariensis",
     date: "APRIL 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Verbena-1.jpg","images/Verbena-2.jpg","images/Verbena-3.jpg"],  
     description: "Clustered clusters of vibrant, delicate purple flowers held on tall, slender stems. They bloom abundantly in the warm sunlight and are absolute favorites for visiting butterflies and pollinators."
   },
    {
     name: "Balsam",
     latin: "Impatiens balsamina",
     date: "MAY 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Balsam-1.jpg","images/Balsam-2.jpg"],
     description: "Vibrant, rose-like blooms nestled closely along the upright stems. These cheerful garden classics thrive in the warm weather and bring a brilliant splash of rich color to shaded spots."
   },
    {
     name: "Pansy",
     latin: "Viola wittrockiana",
     date: "FEBRUARY 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
-    description: "Charming, velvety blossoms featuring distinctive, colorful 'faces.' These hardy cool-weather favorites brighten up the garden beds with a cheerful pop of pattern and rich color."
+    images: ["images/Pansy-1.jpg"],
+    description: "Charming, velvety blossoms featuring distinctive, colourful 'faces.' These hardy cool-weather favourites brighten up the garden beds with a cheerful pop of pattern and rich colour."
   },
    {
     name: "Hollyhock",
