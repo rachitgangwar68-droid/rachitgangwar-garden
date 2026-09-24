@@ -75,14 +75,14 @@ const flowersData = [
     name: "Jade Plant",
     latin: "Crassula ovata",
     date: "MARCH 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Jade_Plant-1.jpg","images/Jade_Plant-2.jpg"],
     description: "Resilient and fleshy succulents featuring glossy, emerald-green leaves. They store water efficiently in their thick stems, bringing a timeless, sturdy charm to the garden display."
   },
    {
     name: "Rain Lily",
     latin: "Zephyranthes candida",
     date: "AUGUST 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Rain_Lily-1.jpg","images/Rain_Lily-2.jpg","images/Rain_Lily-3.jpg","images/Rain_Lily-4.jpg","images/Rain_Lily-5.jpg","images/Rain_Lily-6.jpg","images/Rain_Lily-7.jpg"],
     description: "Delicate, star-shaped flowers that magically pop into full bloom right after a fresh summer downpour. Their sudden appearance brings a refreshing burst of life to the garden."
   },
    {
