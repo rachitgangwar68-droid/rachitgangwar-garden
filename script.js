@@ -96,7 +96,7 @@ const flowersData = [
     name: "Dianthus",
     latin: "Dianthus caryophyllus",
     date: "NOVEMBER 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Dianthus-1.jpg","images/Dianthus-2.jpg","images/Dianthus-3.jpg"],
     description: "Charming, ruffled blooms with a delightful spicy fragrance. Their vibrant clusters thrive in the cooler weather, adding a cheerful burst of color and texture to the garden."
   },
    {
