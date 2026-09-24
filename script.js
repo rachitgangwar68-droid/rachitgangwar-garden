@@ -89,7 +89,7 @@ const flowersData = [
     name: "Hibiscus",
     latin: "Hibiscus rosa-sinensis",
     date: "OCTOBER 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Hibiscus-1.jpg","images/Hibiscus-2.jpg","images/Hibiscus-3.jpg","images/Hibiscus-4.jpg","images/Hibiscus-5.jpg","images/Hibiscus-6.jpg"],
     description: "Stunning, trumpet-shaped tropical blossoms in striking shades of red, yellow, and white. Their bold, colorful petals bring an instant burst of warmth and elegance to the landscape."
   },
    {
