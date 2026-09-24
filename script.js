@@ -69,7 +69,7 @@ const flowersData = [
     name: "Adenium",
     latin: "Adenium obesum",
     date: "FEBRUARY 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Adenium-1.jpg","images/Adenium-2.jpg"],
     description: "Striking succulent shrubs known for their swollen caudex and vibrant, trumpet-shaped blooms. They thrive in the warmth and add an exotic touch to the collection."
   },
    {
