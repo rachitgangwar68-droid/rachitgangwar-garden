@@ -23,10 +23,10 @@
 const flowersData = [
   {
     name: "Marigold",
-    latin: "Tagetes erecta",
-    date: "June 2026",
+    latin: "Tagetes spp",
+    date: "Summer, Rainy (Monsoon), and early Autumn",
     images: ["images/marigold-1.jpg", "images/marigold-2.jpg","images/marigold-3.jpg","images/marigold-4.jpg","images/marigold-5.jpg","images/marigold-6.jpg"],
-    description: "Bright orange blooms by the front path. Flowers almost non-stop through summer and the bees love it."
+    description: "Marigolds act as nature's pest controllers. Their root systems naturally release a chemical compound that repels harmful microscopic worms in the soil, making them excellent companion plants."
   },
   {
     name: "Rose",
@@ -38,9 +38,9 @@ const flowersData = [
   {
     name: "Sunflower",
     latin: "Helianthus annuus",
-    date: "July 2026",
+    date: "Summer and early Autumn",
     images: ["images/sunflower-1.jpg","images/sunflower-2.jpg","images/sunflower-3.jpg"],
-    description: "Grew from seed this year — taller than me by August. Always facing the morning sun."
+    description: "Young sunflowers exhibit heliotropism, tracking the sun from east to west throughout the day. Once mature, the stem stiffens and they permanently face east to catch the morning light and attract bees."
   },
    {
     name: "Chrysanthemum",
