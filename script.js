@@ -124,14 +124,14 @@ const flowersData = [
     name: "Hollyhock",
     latin: "Alcea rosea",
     date: "JULY 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Hollyhock-1.jpg","images/Hollyhock-2.jpg","images/Hollyhock-3.jpg","images/Hollyhock-4.jpg","images/Hollyhock-5.jpg","images/Hollyhock-6.jpg","images/Hollyhock-7.jpg","images/Hollyhock-8.jpg","images/Hollyhock-9.jpg"],
     description: "Majestic, towering flower spikes adorned with large, cup-shaped blossoms. They make a dramatic statement along garden walls, bringing a classic, cottage-garden charm all summer long."
   },
    {
     name: "Petunia",
     latin: "Petunia hybrida",
     date: "MARCH 2026",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Petunia-1.jpg","images/Petunia-2.jpg"],
     description: "Vibrant, trumpet-shaped blooms that blanket the foliage in a continuous wave of rich color. These cheerful garden favorites thrive beautifully in the spring sunshine."
   },
    {
