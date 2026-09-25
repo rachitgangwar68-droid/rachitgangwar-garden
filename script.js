@@ -111,7 +111,7 @@ const flowersData = [
     latin: "Impatiens balsamina",
     date: "Summer and Rainy (Monsoon) season",
     images: ["images/Balsam-1.jpg","images/Balsam-2.jpg"],
-    description: "Balsam plants have incredibly fascinating seed pods. When the pods fully mature, they become highly pressurised. Even the lightest touch, a raindrop, or a gust of wind will cause them to suddenly burst open, catapulting their seeds in all directions (which is why plants in this family are famously nicknamed "Touch-me-nots")."
+    description: "Balsam plants have incredibly fascinating seed pods. When the pods fully mature, they become highly pressurised. Even the lightest touch, a raindrop, or a gust of wind will cause them to suddenly burst open, catapulting their seeds in all directions (which is why plants in this family are famously nicknamed Touch-me-nots)."
   },
    {
     name: "Pansy",
