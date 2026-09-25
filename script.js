@@ -33,85 +33,85 @@ const flowersData = [
     latin: "Rosa hybrida or Rosa spp",
     date: "Spring through Autumn (often All Season in milder climates)",
     images: ["images/rose-1.jpg","images/rose-2.jpg","images/rose-3.jpg","images/rose-4.jpg"],
-    description: "Roses are one of the oldest cultivated flowers in the world. Regardless of their color, all rose petals are edible and are often used to make soothing teas, syrups, and preserves."
+    description: "Roses are one of the oldest cultivated flowers in the world. Regardless of their colour, all rose petals are edible and are often used to make soothing teas, syrups, and preserves."
   },
   {
     name: "Sunflower",
     latin: "Helianthus annuus",
     date: "Summer and early Autumn",
     images: ["images/sunflower-1.jpg","images/sunflower-2.jpg","images/sunflower-3.jpg"],
-    description: "Young sunflowers exhibit heliotropism, tracking the sun from east to west throughout the day. Once mature, the stem stiffens and they permanently face east to catch the morning light and attract bees."
+    description: "Young sunflowers exhibit heliotropism, tracking the sun from east to west throughout the day. Once mature, the stem stiffens, and they permanently face east to catch the morning light and attract bees."
   },
    {
     name: "Chrysanthemum",
-    latin: "Chrysanthemum indicum",
-    date: "December 2026",
+    latin: "Chrysanthemum spp",
+    date: "Autumn and early Winter",
     images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg","images/Chrysanthemum-4.jpg","images/Chrysanthemum-5.jpg","images/Chrysanthemum-6.jpg","images/Chrysanthemum-7.jpg","images/Chrysanthemum-8.jpg","images/Chrysanthemum-9.jpg","images/Chrysanthemum-10.jpg",
             "images/Chrysanthemum-11.jpg","images/Chrysanthemum-12.jpg","images/Chrysanthemum-13.jpg","images/Chrysanthemum-14.jpg","images/Chrysanthemum-15.jpg","images/Chrysanthemum-16.jpg","images/Chrysanthemum-17.jpg"],
-    description: "Short-day blooms that take over when summer fades. Their vibrant winter colors bring life to the garden just as the weather turns cool."
+    description: "Chrysanthemums are naturally "photoperiodic," meaning they are triggered to bloom by the shorter days and longer nights of the changing seasons. Additionally, their flowers contain pyrethrin, a natural compound that makes them excellent at repelling insects from your garden."
   },
    {
     name: "Dahlia",
-    latin: "Dahlia pinnata",
-    date: "SEPTEMBER 2026",
+    latin: "Dahlia spp",
+    date: "Late Summer and Autumn",
     images: ["images/Dahlia-1.jpg","images/Dahlia-2.jpg","images/Dahlia-3.jpg","images/Dahlia-4.jpg"],
-    description: "Bold, intricate blooms that peak as autumn approaches. Their striking geometric petals make them a brilliant centerpiece in the garden beds."
+    description: "Dahlias have an incredibly complex genetic makeup—they possess eight sets of chromosomes, whereas most plants only have two. This unique genetics allows them to produce an astonishing variety of petal shapes and bloom in almost every color imaginable, with the exception of a true blue."
   },
    {
     name: "Calendula",
     latin: "Calendula officinalis",
-    date: "JANUARY 2026",
+    date: "Winter, Spring, and early Summer",
     images: ["images/Calendula-1.jpg", "images/Calendula-2.jpg", "images/Calendula-3.jpg", "images/Calendula-4.jpg", "images/Calendula-5.jpg", "images/Calendula-6.jpg"],
-    description: "Cheerful, bright orange and yellow petals that thrive in the cooler winter months. Their hardy blooms bring a warm, welcoming pop of color to the garden beds."
+    description: "Calendula petals are entirely edible and have been used for centuries as a substitute for saffron in cooking and as a key ingredient in soothing skincare ointments. The flowers are also highly responsive to the environment, often closing up tightly at night or on heavily overcast days."
   },
    {
     name: "Adenium",
     latin: "Adenium obesum",
-    date: "FEBRUARY 2026",
+    date: "Summer and Rainy season",
     images: ["images/Adenium-1.jpg","images/Adenium-2.jpg"],
-    description: "Striking succulent shrubs known for their swollen caudex and vibrant, trumpet-shaped blooms. They thrive in the warmth and add an exotic touch to the collection."
+    description: "Adeniums are actually succulents. They feature a thick, swollen trunk at their base called a "caudex," which acts as a built-in water reservoir to help them survive long periods of drought. Additionally, despite their striking beauty, their sap is toxic and was historically used by some indigenous African tribes on their hunting arrows."
   },
    {
     name: "Jade Plant",
     latin: "Crassula ovata",
-    date: "MARCH 2026",
+    date: "All Season",
     images: ["images/Jade_Plant-1.jpg","images/Jade_Plant-2.jpg"],
-    description: "Resilient and fleshy succulents featuring glossy, emerald-green leaves. They store water efficiently in their thick stems, bringing a timeless, sturdy charm to the garden display."
+    description: "Jade plants are remarkably resilient succulents that store water in their fleshy leaves, stems, and roots. They are also incredibly easy to propagate—a completely new plant can sprout from just a single fallen leaf resting on top of the soil. In many cultures, they are grown as symbols of good luck and prosperity."
   },
    {
     name: "Rain Lily",
-    latin: "Zephyranthes candida",
-    date: "AUGUST 2026",
+    latin: "Zephyranthes spp",
+    date: "Rainy (Monsoon) season and late Summer",
     images: ["images/Rain_Lily-1.jpg","images/Rain_Lily-2.jpg","images/Rain_Lily-3.jpg","images/Rain_Lily-4.jpg","images/Rain_Lily-5.jpg","images/Rain_Lily-6.jpg","images/Rain_Lily-7.jpg"],
-    description: "Delicate, star-shaped flowers that magically pop into full bloom right after a fresh summer downpour. Their sudden appearance brings a refreshing burst of life to the garden."
+    description: "rue to their common name, these magical little bulbs are triggered by environmental changes—specifically the sudden moisture and temperature drop of a heavy downpour. This causes them to break their dormancy and burst into widespread bloom almost overnight after a storm."
   },
    {
     name: "Hibiscus",
-    latin: "Hibiscus rosa-sinensis",
-    date: "OCTOBER 2026",
+    latin: "Hibiscus spp",
+    date: "Summer and Rainy season",
     images: ["images/Hibiscus-1.jpg","images/Hibiscus-2.jpg","images/Hibiscus-3.jpg","images/Hibiscus-4.jpg","images/Hibiscus-5.jpg","images/Hibiscus-6.jpg"],
-    description: "Stunning, trumpet-shaped tropical blossoms in striking shades of red, yellow, and white. Their bold, colorful petals bring an instant burst of warmth and elegance to the landscape."
+    description: "Most individual hibiscus blooms only last for a single day, opening in the morning and wilting by nightfall, but a healthy plant will continuously produce new blossoms to replace them. In many parts of the world, they are also known as the shoe flower because their crushed petals can be used to naturally polish shoes."
   },
    {
     name: "Dianthus",
-    latin: "Dianthus caryophyllus",
+    latin: "Dianthus spp",
     date: "NOVEMBER 2026",
     images: ["images/Dianthus-1.jpg","images/Dianthus-2.jpg","images/Dianthus-3.jpg"],
-    description: "Charming, ruffled blooms with a delightful spicy fragrance. Their vibrant clusters thrive in the cooler weather, adding a cheerful burst of color and texture to the garden."
+    description: "Interestingly, their common name, Pinks, doesn't actually refer to their colour. It refers to the jagged, frilly edges of their petals, which look as though they were trimmed with zig-zag scissors known as "pinking shears. wide varieties also produce a wonderful, spicy fragrance that smells strongly of cloves."
   },
    {
     name: "Verbena",
     latin: "Verbena bonariensis",
     date: "APRIL 2026",
     images: ["images/Verbena-1.jpg","images/Verbena-2.jpg","images/Verbena-3.jpg"],  
-    description: "Clustered clusters of vibrant, delicate purple flowers held on tall, slender stems. They bloom abundantly in the warm sunlight and are absolute favorites for visiting butterflies and pollinators."
+    description: "Clustered clusters of vibrant, delicate purple flowers held on tall, slender stems. They bloom abundantly in the warm sunlight and are absolute favourites for visiting butterflies and pollinators."
   },
    {
     name: "Balsam",
     latin: "Impatiens balsamina",
     date: "MAY 2026",
     images: ["images/Balsam-1.jpg","images/Balsam-2.jpg"],
-    description: "Vibrant, rose-like blooms nestled closely along the upright stems. These cheerful garden classics thrive in the warm weather and bring a brilliant splash of rich color to shaded spots."
+    description: "Vibrant, rose-like blooms nestled closely along the upright stems. These cheerful garden classics thrive in the warm weather and bring a brilliant splash of rich colour to shaded spots."
   },
    {
     name: "Pansy",
@@ -132,14 +132,14 @@ const flowersData = [
     latin: "Petunia hybrida",
     date: "MARCH 2026",
     images: ["images/Petunia-1.jpg","images/Petunia-2.jpg"],
-    description: "Vibrant, trumpet-shaped blooms that blanket the foliage in a continuous wave of rich color. These cheerful garden favorites thrive beautifully in the spring sunshine."
+    description: "Vibrant, trumpet-shaped blooms that blanket the foliage in a continuous wave of rich colour. These cheerful garden favourites thrive beautifully in the spring sunshine."
   },
    {
     name: "Hippeastrum",
     latin: "Hippeastrum hybridum",
     date: "APRIL 2026",
     images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
-    description: "Spectacular, large trumpet-shaped flowers sitting atop sturdy, upright stems. Their striking, bold colors create an eye-catching centerpiece and add a touch of drama to the garden display."
+    description: "Spectacular, large trumpet-shaped flowers sitting atop sturdy, upright stems. Their striking, bold colours create an eye-catching centrepiece and add a touch of drama to the garden display."
   },
    {
     name: "Periwinkle",
