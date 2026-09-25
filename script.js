@@ -48,14 +48,14 @@ const flowersData = [
     date: "Autumn and early Winter",
     images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg","images/Chrysanthemum-4.jpg","images/Chrysanthemum-5.jpg","images/Chrysanthemum-6.jpg","images/Chrysanthemum-7.jpg","images/Chrysanthemum-8.jpg","images/Chrysanthemum-9.jpg","images/Chrysanthemum-10.jpg",
             "images/Chrysanthemum-11.jpg","images/Chrysanthemum-12.jpg","images/Chrysanthemum-13.jpg","images/Chrysanthemum-14.jpg","images/Chrysanthemum-15.jpg","images/Chrysanthemum-16.jpg","images/Chrysanthemum-17.jpg"],
-    description: "Chrysanthemums are naturally "photoperiodic," meaning they are triggered to bloom by the shorter days and longer nights of the changing seasons. Additionally, their flowers contain pyrethrin, a natural compound that makes them excellent at repelling insects from your garden."
+    description: "Chrysanthemums are naturally 'photoperiodic,' meaning they are triggered to bloom by the shorter days and longer nights of the changing seasons. Additionally, their flowers contain pyrethrin, a natural compound that makes them excellent at repelling insects from your garden."
   },
    {
     name: "Dahlia",
     latin: "Dahlia spp",
     date: "Late Summer and Autumn",
     images: ["images/Dahlia-1.jpg","images/Dahlia-2.jpg","images/Dahlia-3.jpg","images/Dahlia-4.jpg"],
-    description: "Dahlias have an incredibly complex genetic makeup—they possess eight sets of chromosomes, whereas most plants only have two. This unique genetics allows them to produce an astonishing variety of petal shapes and bloom in almost every color imaginable, with the exception of a true blue."
+    description: "Dahlias have an incredibly complex genetic makeup—they possess eight sets of chromosomes, whereas most plants only have two. This unique genetics allows them to produce an astonishing variety of petal shapes and bloom in almost every colour imaginable, with the exception of a true blue."
   },
    {
     name: "Calendula",
@@ -95,58 +95,58 @@ const flowersData = [
    {
     name: "Dianthus",
     latin: "Dianthus spp",
-    date: "NOVEMBER 2026",
+    date: "Winter and Spring",
     images: ["images/Dianthus-1.jpg","images/Dianthus-2.jpg","images/Dianthus-3.jpg"],
-    description: "Interestingly, their common name, Pinks, doesn't actually refer to their colour. It refers to the jagged, frilly edges of their petals, which look as though they were trimmed with zig-zag scissors known as "pinking shears. wide varieties also produce a wonderful, spicy fragrance that smells strongly of cloves."
+    description: "Interestingly, their common name, Pinks, doesn't actually refer to their colour. It refers to the jagged, frilly edges of their petals, which look as though they were trimmed with zig-zag scissors known as pinking shears. wide varieties also produce a wonderful, spicy fragrance that smells strongly of cloves."
   },
    {
     name: "Verbena",
-    latin: "Verbena bonariensis",
-    date: "APRIL 2026",
+    latin: "Verbena spp",
+    date: "Spring, Summer, and early Autumn",
     images: ["images/Verbena-1.jpg","images/Verbena-2.jpg","images/Verbena-3.jpg"],  
-    description: "Clustered clusters of vibrant, delicate purple flowers held on tall, slender stems. They bloom abundantly in the warm sunlight and are absolute favourites for visiting butterflies and pollinators."
+    description: "Verbena flowers are absolute magnets for pollinators, reliably drawing in butterflies, bees, and hummingbirds with their densely packed, nectar-rich flower clusters. Historically, the plant was considered deeply magical and sacred by ancient Roman, Egyptian, and Celtic cultures, often being used in protective amulets and rituals."
   },
    {
     name: "Balsam",
     latin: "Impatiens balsamina",
-    date: "MAY 2026",
+    date: "Summer and Rainy (Monsoon) season",
     images: ["images/Balsam-1.jpg","images/Balsam-2.jpg"],
-    description: "Vibrant, rose-like blooms nestled closely along the upright stems. These cheerful garden classics thrive in the warm weather and bring a brilliant splash of rich colour to shaded spots."
+    description: "Balsam plants have incredibly fascinating seed pods. When the pods fully mature, they become highly pressurised. Even the lightest touch, a raindrop, or a gust of wind will cause them to suddenly burst open, catapulting their seeds in all directions (which is why plants in this family are famously nicknamed "Touch-me-nots")."
   },
    {
     name: "Pansy",
     latin: "Viola wittrockiana",
-    date: "FEBRUARY 2026",
+    date: "Winter and Spring",
     images: ["images/Pansy-1.jpg"],
-    description: "Charming, velvety blossoms featuring distinctive, colourful 'faces.' These hardy cool-weather favourites brighten up the garden beds with a cheerful pop of pattern and rich colour."
+    description: "The name 'pansy' is derived from the French word pensée, meaning 'thought,' because the slightly drooping flowers were said to resemble a person deep in thought. Additionally, both their leaves and flowers are completely edible, often used to garnish salads or pastries with a very mild, wintergreen-like flavour."
   },
    {
     name: "Hollyhock",
     latin: "Alcea rosea",
-    date: "JULY 2026",
+    date: "Spring and Summer",
     images: ["images/Hollyhock-1.jpg","images/Hollyhock-2.jpg","images/Hollyhock-3.jpg","images/Hollyhock-4.jpg","images/Hollyhock-5.jpg","images/Hollyhock-6.jpg","images/Hollyhock-7.jpg","images/Hollyhock-8.jpg","images/Hollyhock-9.jpg"],
-    description: "Majestic, towering flower spikes adorned with large, cup-shaped blossoms. They make a dramatic statement along garden walls, bringing a classic, cottage-garden charm all summer long."
+    description: "Hollyhocks are famous for their massive flower stalks that can easily reach 6 to 8 feet tall, making them a staple of classic cottage gardens. They are typically biennials, which means they spend their entire first year growing a low cluster of leaves to gather energy, and wait until their second year to shoot up their spectacular, blooming spikes."
   },
    {
     name: "Petunia",
-    latin: "Petunia hybrida",
-    date: "MARCH 2026",
+    latin: "Petunia spp",
+    date: "Spring and Summer",
     images: ["images/Petunia-1.jpg","images/Petunia-2.jpg"],
-    description: "Vibrant, trumpet-shaped blooms that blanket the foliage in a continuous wave of rich colour. These cheerful garden favourites thrive beautifully in the spring sunshine."
+    description: "Petunias belong to the nightshade family, making them close genetic cousins to tomatoes, potatoes, and tobacco. The name itself comes from an indigenous South American word, 'petun,' which translates to a tobacco that doesn't make a good smoke."
   },
    {
     name: "Hippeastrum",
-    latin: "Hippeastrum hybridum",
-    date: "APRIL 2026",
+    latin: "Hippeastrum spp",
+    date: "Spring and early Summer",
     images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
-    description: "Spectacular, large trumpet-shaped flowers sitting atop sturdy, upright stems. Their striking, bold colours create an eye-catching centrepiece and add a touch of drama to the garden display."
+    description: "Hippeastrum bulbs are incredibly resilient and long-lived. With proper care, a single bulb can survive and continue producing spectacular flowering stalks for over 50 years, often being passed down through generations as a living family heirloom."
   },
    {
     name: "Periwinkle",
     latin: "Catharanthus roseus",
-    date: "MAY 2026",
+    date: "All Season",
     images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
-    description: "Tough, glossy green foliage topped with cheerful, five-petaled blossoms. These resilient plants thrive in the intense summer heat, offering a continuous display of bright, reliable color."
+    description: "These tough plants are famous for their incredible heat and drought tolerance, often flowering profusely when other plants wilt. Beyond their beauty, they are highly valued in modern medicine; they naturally produce specific, complex alkaloids that are used worldwide in life-saving treatments for certain types of cancer."
   }
 
   // Add more entries here, following the same pattern:
