@@ -30,10 +30,10 @@ const flowersData = [
   },
   {
     name: "Rose",
-    latin: "Rosa 'Iceberg'",
-    date: "May 2026",
+    latin: "Rosa hybrida or Rosa spp",
+    date: "Spring through Autumn (often All Season in milder climates)",
     images: ["images/rose-1.jpg","images/rose-2.jpg","images/rose-3.jpg","images/rose-4.jpg"],
-    description: "Planted this white rose bush two years ago. It's finally covering the trellis by the gate."
+    description: "Roses are one of the oldest cultivated flowers in the world. Regardless of their color, all rose petals are edible and are often used to make soothing teas, syrups, and preserves."
   },
   {
     name: "Sunflower",
