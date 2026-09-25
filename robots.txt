@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rachitgangwar68-droid.github.io/rachitgangwar-garden/sitemap.xml
