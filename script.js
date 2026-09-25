@@ -69,7 +69,7 @@ const flowersData = [
     latin: "Adenium obesum",
     date: "Summer and Rainy season",
     images: ["images/Adenium-1.jpg","images/Adenium-2.jpg"],
-    description: "Adeniums are actually succulents. They feature a thick, swollen trunk at their base called a "caudex," which acts as a built-in water reservoir to help them survive long periods of drought. Additionally, despite their striking beauty, their sap is toxic and was historically used by some indigenous African tribes on their hunting arrows."
+    description: "Adeniums are actually succulents. They feature a thick, swollen trunk at their base called a caudex, which acts as a built-in water reservoir to help them survive long periods of drought. Additionally, despite their striking beauty, their sap is toxic and was historically used by some indigenous African tribes on their hunting arrows."
   },
    {
     name: "Jade Plant",
