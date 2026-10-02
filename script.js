@@ -138,14 +138,14 @@ const flowersData = [
     name: "Hippeastrum",
     latin: "Hippeastrum spp",
     date: "Spring and early Summer",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Hippeastrum-1.jpg","images/Hippeastrum-2.jpg","images/Hippeastrum-3.jpg","images/Hippeastrum-4.jpg","images/Hippeastrum-5.jpg"],
     description: "Hippeastrum bulbs are incredibly resilient and long-lived. With proper care, a single bulb can survive and continue producing spectacular flowering stalks for over 50 years, often being passed down through generations as a living family heirloom."
   },
    {
     name: "Periwinkle",
     latin: "Catharanthus roseus",
     date: "All Season",
-    images: ["images/Chrysanthemum-1.jpg","images/Chrysanthemum-2.jpg","images/Chrysanthemum-3.jpg"],
+    images: ["images/Periwinkle-1.jpg","images/Periwinkle-2.jpg","images/Periwinkle-3.jpg","images/Periwinkle-4.jpg","images/Periwinkle-5.jpg","images/Periwinkle-6.jpg","images/Periwinkle-7.jpg","images/Periwinkle-8.jpg","images/Periwinkle-9.jpg","images/Periwinkle-10.jpg","images/Periwinkle-11.jpg","images/Periwinkle-12.jpg","images/Periwinkle-13.jpg"],
     description: "These tough plants are famous for their incredible heat and drought tolerance, often flowering profusely when other plants wilt. Beyond their beauty, they are highly valued in modern medicine; they naturally produce specific, complex alkaloids that are used worldwide in life-saving treatments for certain types of cancer."
   }
 
